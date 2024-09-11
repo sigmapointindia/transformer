@@ -1,2 +1,2 @@
-# MicSigV1
-Deep Learning-Driven Framework for Classifying Seismic Events in Volcanic Regions
+# Project transformer
+Deep Learning-Driven Framework for Gen-AI model for home interior designs.
